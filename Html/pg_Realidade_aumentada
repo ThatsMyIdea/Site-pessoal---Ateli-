@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<link rel="shortcut icon" href="../Imagens/logotipo_atelie_preto.png" type="image/x-icon">
+		<link rel="stylesheet" href="../Css/style.css">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">		
+		<title> Realidade Aumentada </title>
+	</head>
+	<body>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+		<nav class="navbar nav-underline navbar-expand-md" id="cabeçalho">
+			<div class="container-fluid d-flex">
+				<a class="navbar-brand ms-2" href="../Index.html">
+					<img src="../Imagens/logo_atelie_preto.png" height="50">
+				</a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse pb-1" id="navbarNav">
+					<ul class="navbar-nav ms-auto">
+						<li class="nav-item">
+							<a class="nav-link active" aria-current="page" href="pg_Home.html">Home</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" aria-current="page" href="pg_Sobre mim.html">Sobre mim</a>
+						</li>						
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<main>
+			<section class="py-5">
+			<div class="bg-body-tertiary">
+				<div class="container p-5">
+					<div class="mb-md-4">
+						<h1> Realidade Aumentada </h1>
+					</div>
+					<div class="d-md-flex ">
+						<div class="col-md-6 me-md-3">
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+							</p>					
+						</div>	
+						<div class="col-md-6 ">
+							<img class="myimg" src="../Imagens/automação_img1.jpg" alt="braço mecânico sobre esteira de trabalho">
+						</div>
+					</div>
+					<div class="col-12 mt-5">
+						<div class="my-md-4">
+							<h3>  Subtítulo </h3>
+						</div>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+						</p>
+					</div>					
+				</div>
+			</div>
+			</section>
+		</main>
+		<footer class="p-5 text-body-secondary">
+			<div class="container">
+				<a class="float-end mb-1" href="#top">Voltar</a>
+				<p>
+					Esse site foi feito como atividade final para o Ensino médio técnico no 
+					<a href="https://www.sp.senac.br/web/senac-nacoes-unidas">Senac Nações Unidas</a>
+				</p>
+				<p>
+					Para mais informações do autor visite 
+					<a href="https://github.com/ThatsMyIdea">@ThatsMyIdea</a>
+					ou
+					<a href="">@vinirszack</a>
+				</p>
+			</div>
+		</footer>
+	</body>
+</html>

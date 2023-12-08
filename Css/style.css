@@ -1,0 +1,54 @@
+main{
+	background-color: #b0cfdd;
+	
+}
+#cabeçalho{
+	background-color: #8d4925;
+}
+.minha-carta{
+	width: 18rem;
+}
+.showImage{
+	width: auto;
+	height: 100%;
+	object-fit: cover;
+	transition: all 0.3s;
+	cursor: pointer;	
+}
+.showImage:hover{
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+.myimg{
+	width: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+#diva {
+	position: relative;
+}
+#diva::after {
+	content: "";
+	background: url(../Imagens/plano_de_fundo_1.jpg);
+	opacity: 0.3;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -1;   
+}
+#cn_bg {
+	position: relative;
+}
+#cn_bg::after {
+	content: "";
+	background: url(../Imagens/plano_de_fundo_1.jpg);
+	opacity: 0.3;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -1;   
+}
