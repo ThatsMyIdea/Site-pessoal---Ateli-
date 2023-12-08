@@ -37,20 +37,12 @@
 					<div class="d-md-flex ">
 						<div class="col-md-6 me-md-3">
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+								Machine Larning é o uso de algoritmos para a ánalise e organização de dados com o fim de fazer computadores aprenderem certas necessidades, está firmemente relacionada com o conceito de inteligência artificial mas em um nivel mais profundo.
 							</p>					
 						</div>	
 						<div class="col-md-6 ">
-							<img class="myimg" src="../Imagens/automação_img1.jpg" alt="braço mecânico sobre esteira de trabalho">
+							<img class="myimg" src="../Imagens/machine learn_img1.jpg" alt="braço mecânico sobre esteira de trabalho">
 						</div>
-					</div>
-					<div class="col-12 mt-5">
-						<div class="my-md-4">
-							<h3>  Subtítulo </h3>
-						</div>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
-						</p>
 					</div>					
 				</div>
 			</div>
@@ -66,8 +58,6 @@
 				<p>
 					Para mais informações do autor visite 
 					<a href="https://github.com/ThatsMyIdea">@ThatsMyIdea</a>
-					ou
-					<a href="">@vinirszack</a>
 				</p>
 			</div>
 		</footer>
